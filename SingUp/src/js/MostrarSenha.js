@@ -11,6 +11,8 @@ function mostrarSenha() {
     }
 }
 
+mostrarSenha();
+
 
 function exibirOcultarMostrarSenha() {
     const inputSenha = document.getElementById('user-senha');
